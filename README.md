@@ -55,6 +55,3 @@ If you encounter errors during installation or while running the application, tr
 - Data is fetched from an API using the `fetch` function inside `useEffect`.
 - Ensure your internet connection is active while fetching product data.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
